@@ -7,4 +7,4 @@ Active development is done in the OpenGL branch! Please be warned that not much 
 ## Current technology
 
 * ECS system, soon to be completely custom.
-* SDL2 (Currently switching to OpenGL, see [OpenGL branch](https://github.com/TeaSpillStudios/taconite/tree/opengl)).
+* SDL2 (Currently switching to wgpu, see [wgpu branch](https://github.com/TeaSpillStudios/taconite/tree/wgpu)).
